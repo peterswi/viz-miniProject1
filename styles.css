@@ -4,10 +4,12 @@ body {
     border: 5px;
     margin: 15px;
     text-align: center;
+    color: black;
 }
 
 img {
     border-radius: 10px;
+    display: inline-block;
 }
 
 div p {
@@ -16,6 +18,8 @@ div p {
     margin: auto;
     margin-top: 10px;
     display: block;
+    margin-bottom: 10px;
+    padding: 10px;
 }
 
 #row{
@@ -25,5 +29,11 @@ div p {
 h3{
     margin-left: auto;
     margin-right: auto;
+    margin-top: 25px;
     display: block;
+    font-weight: bold;
+}
+
+#erin p{
+    background-color:#d4ebf2;
 }
