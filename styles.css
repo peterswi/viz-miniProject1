@@ -1,3 +1,7 @@
+h1{
+    font-weight: bold;
+}
+
 body {
     width: fit-content;
     padding: 15px;
@@ -34,6 +38,20 @@ h3{
     font-weight: bold;
 }
 
+#will p{
+    background-color: palegoldenrod
+}
+
 #erin p{
     background-color:#d4ebf2;
 }
+
+#lurein p{
+    background-color:#bdacd1; /* just chose a color to make sure it works, feel free to change!*/
+}
+
+#kathryn p{
+    background-color:#bcf5bc;
+}
+
+
